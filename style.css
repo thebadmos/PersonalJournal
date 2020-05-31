@@ -10,6 +10,18 @@ header{
     padding: auto;
     margin: auto;
 }
+.btn{
+	background-color: #050401;
+	color: #fffff2;
+	padding:15px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 100%;
+	box-shadow: 3px 3px 0 0 #e4572e; 
+
+}
 main{
     background-color: #fffff2; 
 }
